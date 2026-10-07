@@ -1,0 +1,12 @@
+Shipment_ID,Order_ID,Courier,Label_Status,Packed_Box_Location,Pickup_Status,Expected_Pickup,Notes
+SHP-501,ORD-1004,Delhivery,Printed,A-12,Ready,2026-10-06 17:00,Box staged near dispatch rack
+SHP-502,ORD-1005,Shiprocket,Printed,B-04,Ready,2026-10-06 16:30,Awaiting courier scan
+SHP-503,ORD-1007,Delhivery,Printed,A-09,Collected,2026-10-06 13:00,Handed over
+SHP-504,ORD-1009,Blue Dart,Printed,C-03,Ready,2026-10-06 16:00,Priority shipment
+SHP-505,ORD-1011,Shiprocket,Exception,B-07,Missed,2026-10-06 15:30,Courier missed pickup window
+SHP-506,ORD-1012,Delhivery,Printed,A-15,Ready,2026-10-06 16:00,Priority shipment
+SHP-507,ORD-1014,Shiprocket,Printed,B-02,Collected,2026-10-06 12:30,Handed over
+SHP-508,ORD-1016,Blue Dart,Printed,C-08,Ready,2026-10-06 18:00,Standard pickup
+SHP-509,ORD-1019,Blue Dart,Printed,C-11,Collected,2026-10-06 13:30,Handed over
+SHP-510,ORD-1020,Shiprocket,Printed,B-09,Ready,2026-10-06 17:30,Box staged
+SHP-511,ORD-1021,Delhivery,Printed,A-17,Ready,2026-10-06 16:30,Priority shipment

@@ -1,0 +1,21 @@
+SKU,Product,Variant,Main_Units,Secondary_Units,Reserved_Units,Available_Units,Reorder_Level
+SKU-001,Stainless Bottle,500ml,14,30,6,8,10
+SKU-002,Stainless Bottle,750ml,22,18,12,10,8
+SKU-003,Stainless Bottle,1L,7,25,5,2,6
+SKU-004,Desk Organizer,Black,32,10,11,21,8
+SKU-005,Desk Organizer,White,18,12,7,11,8
+SKU-006,Desk Organizer,Blue,5,20,4,1,5
+SKU-007,Wireless Mouse,Silent,9,14,8,1,5
+SKU-008,Wireless Mouse,Ergonomic,21,5,9,12,7
+SKU-009,Notebook Set,A5,35,40,15,20,10
+SKU-010,Notebook Set,A4,11,30,7,4,8
+SKU-011,Cable Organizer,Pack of 5,17,20,8,9,7
+SKU-012,Cable Organizer,Pack of 10,4,18,3,1,5
+SKU-013,LED Study Lamp,White,16,12,7,9,6
+SKU-014,LED Study Lamp,Black,12,10,4,8,6
+SKU-015,Power Bank,10000mAh,20,16,8,12,7
+SKU-016,Power Bank,20000mAh,8,18,6,2,6
+SKU-017,Keyboard,Compact,13,10,5,8,6
+SKU-018,Keyboard,Full Size,19,8,6,13,7
+SKU-019,USB-C Hub,6-in-1,6,14,5,1,5
+SKU-020,USB-C Hub,8-in-1,3,12,3,0,4

@@ -1,0 +1,25 @@
+Order_ID,Customer,Order_Date,Priority,Product,Variant,Qty,Status,Promised_Ship_Time,Courier,Issue
+ORD-1001,Ananya Sharma,2026-10-06,High,Stainless Bottle,750ml,2,Picking,2026-10-06 15:00,Delhivery,Priority order; pick before cutoff
+ORD-1002,Rohit Mehta,2026-10-06,Normal,Desk Organizer,Black,1,Processed,2026-10-06 18:00,Shiprocket,None
+ORD-1003,Neha Singh,2026-10-06,High,Wireless Mouse,Silent,1,Delayed,2026-10-06 14:00,Blue Dart,Main warehouse stock not found
+ORD-1004,Arjun Verma,2026-10-06,Normal,Notebook Set,A5,3,Packed,2026-10-06 17:00,Delhivery,Waiting for pickup
+ORD-1005,Priya Patel,2026-10-06,Normal,Cable Organizer,Pack of 5,2,Staged,2026-10-06 16:30,Shiprocket,None
+ORD-1006,Karan Joshi,2026-10-06,High,LED Study Lamp,White,1,Processed,2026-10-06 15:30,Blue Dart,Priority order; label printed
+ORD-1007,Sneha Rao,2026-10-06,Normal,Keyboard,Compact,1,Shipped,2026-10-06 13:00,Delhivery,None
+ORD-1008,Vivek Gupta,2026-10-06,Normal,Stainless Bottle,1L,1,Received,2026-10-06 19:00,Shiprocket,None
+ORD-1009,Ishita Jain,2026-10-06,High,Power Bank,10000mAh,1,Packed,2026-10-06 16:00,Blue Dart,Priority; ready for courier
+ORD-1010,Manish Yadav,2026-10-06,Normal,Desk Organizer,White,2,Picking,2026-10-06 18:30,Delhivery,None
+ORD-1011,Meera Kapoor,2026-10-06,Normal,USB-C Hub,6-in-1,1,Delayed,2026-10-06 15:30,Shiprocket,Courier label mismatch
+ORD-1012,Dev Kumar,2026-10-06,High,Notebook Set,A4,2,Staged,2026-10-06 16:00,Delhivery,Priority order; pickup due
+ORD-1013,Simran Kaur,2026-10-06,Normal,Wireless Mouse,Ergonomic,1,Processed,2026-10-06 20:00,Blue Dart,None
+ORD-1014,Rahul Soni,2026-10-06,Normal,LED Study Lamp,Black,1,Shipped,2026-10-06 12:30,Shiprocket,None
+ORD-1015,Pooja Mishra,2026-10-06,High,Cable Organizer,Pack of 10,1,Received,2026-10-06 15:00,Delhivery,Priority order; stock check required
+ORD-1016,Aditya Nair,2026-10-06,Normal,Power Bank,20000mAh,1,Packed,2026-10-06 18:00,Blue Dart,None
+ORD-1017,Tanya Shah,2026-10-06,Normal,Keyboard,Full Size,1,Picking,2026-10-06 19:00,Shiprocket,None
+ORD-1018,Nikhil Das,2026-10-06,High,USB-C Hub,8-in-1,1,Delayed,2026-10-06 14:30,Delhivery,Variant unavailable in main warehouse
+ORD-1019,Komal Gupta,2026-10-06,Normal,Desk Organizer,Blue,1,Shipped,2026-10-06 13:30,Blue Dart,None
+ORD-1020,Harsh Vardhan,2026-10-06,Normal,Stainless Bottle,500ml,4,Staged,2026-10-06 17:30,Shiprocket,None
+ORD-1021,Riya Malhotra,2026-10-06,High,Wireless Mouse,Silent,2,Packed,2026-10-06 16:30,Delhivery,Priority; waiting for pickup
+ORD-1022,Aman Tiwari,2026-10-06,Normal,LED Study Lamp,White,1,Processed,2026-10-06 20:00,Blue Dart,None
+ORD-1023,Shreya Iyer,2026-10-06,Normal,Notebook Set,A5,2,Picking,2026-10-06 19:30,Delhivery,None
+ORD-1024,Varun Bansal,2026-10-06,High,Power Bank,10000mAh,1,Received,2026-10-06 15:30,Shiprocket,Priority order; process first
